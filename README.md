@@ -1,8 +1,5 @@
 # React + Vite
 
-<small>Technology: React JS</small> <br>
-<small>Bundler: Vite</small>
-
-Demo:
-<img src="https://i.imgur.com/QV1m41u.png"/>
+Live Site: 
+<img src="https://i.ibb.co/F07RHyz/Screenshot-2024-02-03-104834.png"/>
 
